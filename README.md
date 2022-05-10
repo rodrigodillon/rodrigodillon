@@ -1,16 +1,35 @@
-### Hi there 👋
+Hi 👋 My name is Rodrigo Dillon
+===============================
 
-<!--
-**rodrigodillon/rodrigodillon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Developer
+--------------
 
-Here are some ideas to get you started:
+Backend java developer with frontend experience (basically Full-stack 😁) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+· Web development: 
+
+   HTML, CSS, jQuery, Angular(2+), Bootstrap, ReactJS 
+
+· Analysis and modeling: 
+
+   Creating UML artifacts such as use cases, sequence diagrams,
+   and class diagrams Experience with agile methodologies like Scrum 
+
+· Spring Framework:
+
+   spring-web, spring-core, spring-jdbc, spring-data, spring-rest 
+
+· Tools:
+ 
+   Apache Maven / Jenkins - Continuous Integration Server / Sonar
+   Code Analyzer / Nexus - Artifacts Repository Manager / DB - pgadmin / JAVA
+   IntelliJ IDEA / GIT (github.com) / Docker 
+
+· Database: 
+
+   PostgreSQL 12.x , MySQL e Oracle
+
+* 🌍  I'm based in São Paulo
+* ✉️  You can contact me at [rodrigodillon5@gmail.com](mailto:rodrigodillon5@gmail.com)
+* 🧠  I'm learning Java certification
+* 🤝  I'm open to collaborating on Interesting projects
