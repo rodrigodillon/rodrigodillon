@@ -38,7 +38,7 @@ Backend java developer with frontend experience (basically Full-stack 😁)
 **· Analysis and modeling:**
 
    Creating UML artifacts such as use cases, sequence diagrams,
-   and class diagrams Experience with agile methodologies like Scrum 
+   and class diagrams.
 
 **· Spring Framework:**
 
